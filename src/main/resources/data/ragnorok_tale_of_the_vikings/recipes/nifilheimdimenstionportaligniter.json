@@ -1,0 +1,19 @@
+{
+  "group": "ragnorok_tale_of_the_vikings",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "ragnorok_tale_of_the_vikings:containment_unit"
+    },
+    "1": {
+      "item": "ragnorok_tale_of_the_vikings:nifilheim_gem"
+    }
+  },
+  "result": {
+    "item": "ragnorok_tale_of_the_vikings:nifilheim_dimenstion",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ragnorok_tale_of_the_vikings:blocks/dirt",
+    "up": "ragnorok_tale_of_the_vikings:blocks/chilled_grass_top",
+    "north": "ragnorok_tale_of_the_vikings:blocks/chilled_grass",
+    "east": "ragnorok_tale_of_the_vikings:blocks/chilled_grass",
+    "south": "ragnorok_tale_of_the_vikings:blocks/chilled_grass",
+    "west": "ragnorok_tale_of_the_vikings:blocks/chilled_grass",
+    "particle": "ragnorok_tale_of_the_vikings:blocks/dirt"
+  }
+}

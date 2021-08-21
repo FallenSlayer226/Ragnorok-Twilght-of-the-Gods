@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ragnorok_tale_of_the_vikings:blocks/eternal_permafrost",
+    "up": "ragnorok_tale_of_the_vikings:blocks/eternal_permafrost",
+    "north": "ragnorok_tale_of_the_vikings:blocks/eternal_permafrost",
+    "east": "ragnorok_tale_of_the_vikings:blocks/eternal_permafrost",
+    "south": "ragnorok_tale_of_the_vikings:blocks/eternal_permafrost",
+    "west": "ragnorok_tale_of_the_vikings:blocks/eternal_permafrost",
+    "particle": "ragnorok_tale_of_the_vikings:blocks/eternal_permafrost"
+  }
+}

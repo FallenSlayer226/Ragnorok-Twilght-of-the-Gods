@@ -1,0 +1,42 @@
+{
+  "_fv": 18,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:MuspelheimBiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_LAVA"
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "isDark": false,
+    "doesWaterVaporize": true,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:EternalSchorchingStone"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Muspelheim Ornament",
+    "igniterTab": {
+      "value": "CUSTOM:Muspelheim"
+    },
+    "texture": "muspelheim_ornament",
+    "portalTexture": "museplheim_portal",
+    "enablePortal": true
+  }
+}

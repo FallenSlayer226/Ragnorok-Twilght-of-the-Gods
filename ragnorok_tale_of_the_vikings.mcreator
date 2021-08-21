@@ -1,0 +1,837 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Nifilheim",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nifilheim",
+      "path": "~/Nifilheim"
+    },
+    {
+      "name": "Nifilhinium",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nifilhinium",
+      "path": "~/Nifilheim/Blocks"
+    },
+    {
+      "name": "ChilledGrass",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chilled_grass",
+      "path": "~/Nifilheim/Blocks"
+    },
+    {
+      "name": "Muspelheim",
+      "type": "tab",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "muspelheim",
+      "path": "~/Muspelheim"
+    },
+    {
+      "name": "ContainementUnit",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "containement_unit",
+      "path": "~/Muspelheim/Items"
+    },
+    {
+      "name": "MuspelheimGem",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "muspelheim_gem",
+      "path": "~/Muspelheim/Items"
+    },
+    {
+      "name": "NifilheimDimenstion",
+      "type": "dimension",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nifilheim_dimenstion",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/Nifilheim/Portal"
+    },
+    {
+      "name": "ContainmentUnit",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "containment_unit",
+      "path": "~/Nifilheim/Items"
+    },
+    {
+      "name": "NifilheimGem",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nifilheim_gem",
+      "path": "~/Nifilheim/Items"
+    },
+    {
+      "name": "Alfiem",
+      "type": "tab",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alfiem",
+      "path": "~/Alfeim"
+    },
+    {
+      "name": "Asgard",
+      "type": "tab",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "asgard",
+      "path": "~/Asgard"
+    },
+    {
+      "name": "Hel",
+      "type": "tab",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hel",
+      "path": "~/Hel"
+    },
+    {
+      "name": "Jotunhemir",
+      "type": "tab",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jotunhemir",
+      "path": "~/Jotunhemir"
+    },
+    {
+      "name": "Midgard",
+      "type": "tab",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "midgard",
+      "path": "~/Midgard"
+    },
+    {
+      "name": "Nioavellir",
+      "type": "tab",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nioavellir",
+      "path": "~/Nioavellir"
+    },
+    {
+      "name": "Vanaheim",
+      "type": "tab",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vanaheim",
+      "path": "~/Vanaheim"
+    },
+    {
+      "name": "Yggdrasil",
+      "type": "tab",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yggdrasil",
+      "path": "~/Yggdrasil"
+    },
+    {
+      "name": "YggdrasilLog",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yggdrasil_log",
+      "path": "~/Yggdrasil/Blocks"
+    },
+    {
+      "name": "YggdrasilBiome",
+      "type": "biome",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yggdrasil_biome",
+      "path": "~/Yggdrasil/Biome"
+    },
+    {
+      "name": "EternalPermafrost",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eternal_permafrost",
+      "path": "~/Nifilheim/Blocks"
+    },
+    {
+      "name": "NifilheimBiome",
+      "type": "biome",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nifilheim_biome",
+      "path": "~/Nifilheim/Biome"
+    },
+    {
+      "name": "ContainmentUnitRecipie",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "containment_unit_recipie",
+      "path": "~/Nifilheim/Crafting Recipies"
+    },
+    {
+      "name": "NifilheimGemRecipie",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nifilheim_gem_recipie",
+      "path": "~/Nifilheim/Crafting Recipies"
+    },
+    {
+      "name": "MuspelheimGemRecipie",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "muspelheim_gem_recipie",
+      "path": "~/Muspelheim/Crafting Recipies"
+    },
+    {
+      "name": "MuspelheimContainemtUnit",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "muspelheim_containemt_unit",
+      "path": "~/Muspelheim/Crafting Recipies"
+    },
+    {
+      "name": "Nifilheimdimenstionportaligniter",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nifilheimdimenstionportaligniter",
+      "path": "~/Nifilheim/Crafting Recipies"
+    },
+    {
+      "name": "Scorchedgrass",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "scorchedgrass",
+      "path": "~/Muspelheim/Blocks"
+    },
+    {
+      "name": "EternalSchorchingStone",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "eternal_schorching_stone",
+      "path": "~/Muspelheim/Blocks"
+    },
+    {
+      "name": "MuspelheimOrnament",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "muspelheim_ornament",
+      "path": "~/Muspelheim/Crafting Recipies"
+    },
+    {
+      "name": "MuspelheimBiome",
+      "type": "biome",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "muspelheim_biome",
+      "path": "~/Muspelheim/Biome"
+    },
+    {
+      "name": "MoltenMuspelhinium",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "molten_muspelhinium",
+      "path": "~/Muspelheim/Blocks"
+    },
+    {
+      "name": "MuspelheimDimenstion",
+      "type": "dimension",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "muspelheim_dimenstion",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/Muspelheim/Portal"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "itemGroup.tabhel": "Hel",
+      "block.ragnorok_tale_of_the_vikings.eternal_schorching_stone": "Eternal Schorching Stone",
+      "block.ragnorok_tale_of_the_vikings.nifilhinium": "Nifilhinium",
+      "item.ragnorok_tale_of_the_vikings.containment_unit": "Containment Unit",
+      "itemGroup.tabnifilheim": "Nifilheim",
+      "biome.ragnorok_tale_of_the_vikings.yggdrasil_biome": "Yggdrasil Biome",
+      "item.ragnorok_tale_of_the_vikings.containement_unit": "Containement Unit",
+      "itemGroup.tabnioavellir": "Nioavellir",
+      "biome.ragnorok_tale_of_the_vikings.nifilheim_biome": "Nifilheim Biome",
+      "item.ragnorok_tale_of_the_vikings.muspelheim_dimenstion": "Muspelheim Ornament",
+      "itemGroup.tabmuspelheim": "Muspelheim",
+      "block.ragnorok_tale_of_the_vikings.chilled_grass": "Chilled Grass",
+      "item.ragnorok_tale_of_the_vikings.nifilheim_gem": "Nifilheim Gem",
+      "block.ragnorok_tale_of_the_vikings.yggdrasil_log": "Yggdrasil Log",
+      "item.ragnorok_tale_of_the_vikings.muspelheim_gem": "Muspelheim Gem",
+      "itemGroup.tabjotunhemir": "Jotunhemir",
+      "itemGroup.tabmidgard": "Midgard",
+      "itemGroup.tabasgard": "Asgard",
+      "item.ragnorok_tale_of_the_vikings.nifilheim_dimenstion": "Nifilheim Dimenstion Portal Igniter",
+      "block.ragnorok_tale_of_the_vikings.eternal_permafrost": "Eternal Permafrost",
+      "itemGroup.tabvanaheim": "Vanaheim",
+      "itemGroup.tabalfiem": "Alfiem",
+      "biome.ragnorok_tale_of_the_vikings.muspelheim_biome": "Muspelheim Biome",
+      "block.ragnorok_tale_of_the_vikings.scorchedgrass": "Scorched Grass",
+      "block.ragnorok_tale_of_the_vikings.molten_muspelhinium": "Molten Muspelhinium",
+      "itemGroup.tabyggdrasil": "Yggdrasil"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Nifilheim",
+        "children": [
+          {
+            "name": "Blocks",
+            "children": []
+          },
+          {
+            "name": "Mob Drops",
+            "children": []
+          },
+          {
+            "name": "Animals",
+            "children": []
+          },
+          {
+            "name": "Mobs",
+            "children": []
+          },
+          {
+            "name": "Portal",
+            "children": []
+          },
+          {
+            "name": "Biome",
+            "children": []
+          },
+          {
+            "name": "Weapons and Tools",
+            "children": []
+          },
+          {
+            "name": "Boss_Mobs",
+            "children": []
+          },
+          {
+            "name": "Crafting Recipies",
+            "children": []
+          },
+          {
+            "name": "Items",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Muspelheim",
+        "children": [
+          {
+            "name": "Animals",
+            "children": []
+          },
+          {
+            "name": "Biome",
+            "children": []
+          },
+          {
+            "name": "Blocks",
+            "children": []
+          },
+          {
+            "name": "Boss_Mobs",
+            "children": []
+          },
+          {
+            "name": "Crafting Recipies",
+            "children": []
+          },
+          {
+            "name": "Items",
+            "children": []
+          },
+          {
+            "name": "Mobs",
+            "children": []
+          },
+          {
+            "name": "Mob Drops",
+            "children": []
+          },
+          {
+            "name": "Portal",
+            "children": []
+          },
+          {
+            "name": "Weapons and Tools",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Midgard",
+        "children": [
+          {
+            "name": "Animals",
+            "children": []
+          },
+          {
+            "name": "Biome",
+            "children": []
+          },
+          {
+            "name": "Blocks",
+            "children": []
+          },
+          {
+            "name": "Boss_Mobs",
+            "children": []
+          },
+          {
+            "name": "Crafting Recipes",
+            "children": []
+          },
+          {
+            "name": "Items",
+            "children": []
+          },
+          {
+            "name": "Mobs Drops",
+            "children": []
+          },
+          {
+            "name": "Mobs",
+            "children": []
+          },
+          {
+            "name": "Portal",
+            "children": []
+          },
+          {
+            "name": "Weapons and Tools",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Asgard",
+        "children": [
+          {
+            "name": "Animals",
+            "children": []
+          },
+          {
+            "name": "Biome",
+            "children": []
+          },
+          {
+            "name": "Boss Mobs",
+            "children": []
+          },
+          {
+            "name": "Blocks",
+            "children": []
+          },
+          {
+            "name": "Items",
+            "children": []
+          },
+          {
+            "name": "Crafting Recipies",
+            "children": []
+          },
+          {
+            "name": "Mobs ",
+            "children": []
+          },
+          {
+            "name": "Mob Drops",
+            "children": []
+          },
+          {
+            "name": "Portal",
+            "children": []
+          },
+          {
+            "name": "Weapons and Tools",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Hel",
+        "children": [
+          {
+            "name": "Animals",
+            "children": []
+          },
+          {
+            "name": "Biome",
+            "children": []
+          },
+          {
+            "name": "Blocks",
+            "children": []
+          },
+          {
+            "name": "Boss Mobs",
+            "children": []
+          },
+          {
+            "name": "Items",
+            "children": []
+          },
+          {
+            "name": "Crafting Recipies",
+            "children": []
+          },
+          {
+            "name": "Mobs",
+            "children": []
+          },
+          {
+            "name": "Mob Drops",
+            "children": []
+          },
+          {
+            "name": "Portal",
+            "children": []
+          },
+          {
+            "name": "Weapons and Tools",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Alfeim",
+        "children": [
+          {
+            "name": "Animals",
+            "children": []
+          },
+          {
+            "name": "Biome",
+            "children": []
+          },
+          {
+            "name": "Blocks",
+            "children": []
+          },
+          {
+            "name": "Items",
+            "children": []
+          },
+          {
+            "name": "Boss Mobs",
+            "children": []
+          },
+          {
+            "name": "Crafting Recipies",
+            "children": []
+          },
+          {
+            "name": "Mobs",
+            "children": []
+          },
+          {
+            "name": "Mob Drops",
+            "children": []
+          },
+          {
+            "name": "Portal",
+            "children": []
+          },
+          {
+            "name": "Weapons and Tools",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Vanaheim",
+        "children": [
+          {
+            "name": "Animals",
+            "children": []
+          },
+          {
+            "name": "Biome",
+            "children": []
+          },
+          {
+            "name": "Blocks",
+            "children": []
+          },
+          {
+            "name": "Mob Drops",
+            "children": []
+          },
+          {
+            "name": "Boss Mobs",
+            "children": []
+          },
+          {
+            "name": "Mobs",
+            "children": []
+          },
+          {
+            "name": "Crafting Recipies",
+            "children": []
+          },
+          {
+            "name": "Items",
+            "children": []
+          },
+          {
+            "name": "Portal",
+            "children": []
+          },
+          {
+            "name": "Weapons and Tools",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Jotunhemir",
+        "children": [
+          {
+            "name": "Animals",
+            "children": []
+          },
+          {
+            "name": "Biome",
+            "children": []
+          },
+          {
+            "name": "Boss Mobs",
+            "children": []
+          },
+          {
+            "name": "Blocks",
+            "children": []
+          },
+          {
+            "name": "Items",
+            "children": []
+          },
+          {
+            "name": "Crafting Recipies",
+            "children": []
+          },
+          {
+            "name": "Mobs",
+            "children": []
+          },
+          {
+            "name": "Mob Drops",
+            "children": []
+          },
+          {
+            "name": "Portal",
+            "children": []
+          },
+          {
+            "name": "Weapons and Tools",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Yggdrasil",
+        "children": [
+          {
+            "name": "Animals",
+            "children": []
+          },
+          {
+            "name": "Blocks",
+            "children": []
+          },
+          {
+            "name": "Boss  Mobs",
+            "children": []
+          },
+          {
+            "name": "Biome",
+            "children": []
+          },
+          {
+            "name": "Crafting Recipies",
+            "children": []
+          },
+          {
+            "name": "Items",
+            "children": []
+          },
+          {
+            "name": "Mobs",
+            "children": []
+          },
+          {
+            "name": "Mob Drops",
+            "children": []
+          },
+          {
+            "name": "Weapons and Tools",
+            "children": []
+          },
+          {
+            "name": "Structures",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Nioavellir",
+        "children": [
+          {
+            "name": "Animals",
+            "children": []
+          },
+          {
+            "name": "Biomes",
+            "children": []
+          },
+          {
+            "name": "Blocks",
+            "children": []
+          },
+          {
+            "name": "Boss_Mobs",
+            "children": []
+          },
+          {
+            "name": "Crafting Recipies",
+            "children": []
+          },
+          {
+            "name": "Mobs",
+            "children": []
+          },
+          {
+            "name": "Mob Drops",
+            "children": []
+          },
+          {
+            "name": "Items",
+            "children": []
+          },
+          {
+            "name": "Portal",
+            "children": []
+          },
+          {
+            "name": "Weapons and Tools",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "ragnorok_tale_of_the_vikings",
+    "modName": "Ragnorok: Tale of the Vikings",
+    "version": "1.0.0",
+    "author": "kevin, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.ragnoroktaleofthevikings",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

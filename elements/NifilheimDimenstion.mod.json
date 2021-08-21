@@ -1,0 +1,42 @@
+{
+  "_fv": 18,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:NifilheimBiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.PACKED_ICE"
+    },
+    "canRespawnHere": false,
+    "hasFog": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:EternalPermafrost"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Nifilheim Dimenstion Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:Nifilheim"
+    },
+    "texture": "nifilheim_ornament",
+    "portalTexture": "nifilheimportalblock",
+    "enablePortal": true
+  }
+}

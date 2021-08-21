@@ -1,0 +1,30 @@
+{
+  "group": "ragnorok_tale_of_the_vikings",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:orange_dye"
+    },
+    "3": {
+      "item": "minecraft:orange_dye"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "minecraft:orange_dye"
+    },
+    "7": {
+      "item": "minecraft:orange_dye"
+    }
+  },
+  "result": {
+    "item": "ragnorok_tale_of_the_vikings:muspelheim_gem",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ragnorok_tale_of_the_vikings:blocks/molten_basalt",
+    "up": "ragnorok_tale_of_the_vikings:blocks/molten_basalt",
+    "north": "ragnorok_tale_of_the_vikings:blocks/molten_basalt",
+    "east": "ragnorok_tale_of_the_vikings:blocks/molten_basalt",
+    "south": "ragnorok_tale_of_the_vikings:blocks/molten_basalt",
+    "west": "ragnorok_tale_of_the_vikings:blocks/molten_basalt",
+    "particle": "ragnorok_tale_of_the_vikings:blocks/molten_basalt"
+  }
+}

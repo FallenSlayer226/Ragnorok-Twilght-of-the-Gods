@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ragnorok_tale_of_the_vikings:blocks/molten_muspelhinium",
+    "up": "ragnorok_tale_of_the_vikings:blocks/molten_muspelhinium",
+    "north": "ragnorok_tale_of_the_vikings:blocks/molten_muspelhinium",
+    "east": "ragnorok_tale_of_the_vikings:blocks/molten_muspelhinium",
+    "south": "ragnorok_tale_of_the_vikings:blocks/molten_muspelhinium",
+    "west": "ragnorok_tale_of_the_vikings:blocks/molten_muspelhinium",
+    "particle": "ragnorok_tale_of_the_vikings:blocks/molten_muspelhinium"
+  }
+}

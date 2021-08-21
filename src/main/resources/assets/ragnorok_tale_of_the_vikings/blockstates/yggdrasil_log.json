@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "ragnorok_tale_of_the_vikings:block/yggdrasil_log"
+    },
+    "facing=north": {
+      "model": "ragnorok_tale_of_the_vikings:block/yggdrasil_log"
+    },
+    "facing=east": {
+      "model": "ragnorok_tale_of_the_vikings:block/yggdrasil_log",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "ragnorok_tale_of_the_vikings:block/yggdrasil_log",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "ragnorok_tale_of_the_vikings:block/yggdrasil_log",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "ragnorok_tale_of_the_vikings:block/yggdrasil_log",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

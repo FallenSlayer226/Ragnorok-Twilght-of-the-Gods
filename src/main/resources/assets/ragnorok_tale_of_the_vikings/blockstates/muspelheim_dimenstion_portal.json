@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "ragnorok_tale_of_the_vikings:block/muspelheim_dimenstion_portal_ew"
+    },
+    "axis=x": {
+      "model": "ragnorok_tale_of_the_vikings:block/muspelheim_dimenstion_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Muspelheim",
+    "icon": {
+      "value": "Blocks.BOOKSHELF"
+    },
+    "showSearch": true
+  }
+}

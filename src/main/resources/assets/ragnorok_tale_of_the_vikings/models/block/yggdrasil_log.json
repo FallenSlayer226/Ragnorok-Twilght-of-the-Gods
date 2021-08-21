@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ragnorok_tale_of_the_vikings:blocks/yggdrasil_log_top",
+    "up": "ragnorok_tale_of_the_vikings:blocks/yggdrasil_log_top",
+    "north": "ragnorok_tale_of_the_vikings:blocks/yggdrasil_log",
+    "east": "ragnorok_tale_of_the_vikings:blocks/yggdrasil_log",
+    "south": "ragnorok_tale_of_the_vikings:blocks/yggdrasil_log",
+    "west": "ragnorok_tale_of_the_vikings:blocks/yggdrasil_log",
+    "particle": "ragnorok_tale_of_the_vikings:blocks/yggdrasil_log_top"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ragnorok_tale_of_the_vikings:items/muspelheim_ornament"
+  }
+}
